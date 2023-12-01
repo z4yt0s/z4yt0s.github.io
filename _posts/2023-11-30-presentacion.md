@@ -31,27 +31,31 @@ el campo de la programación, y me dediqué a aprender Java utilizando el bloc d
 Notepad++, compilando cada nuevo proyecto a mano directamente desde el prompt de Windows 7.
 Conforme fui evolucionando, quise dar el salto al uso de IDEs. Sin embargo, mi ordenador con 1GB 
 de RAM y un procesador Intel Dual-Core no me lo permitieron, por lo que empecé a investigar y a 
-encontrar soluciones a ese problema.
+encontrar posibles soluciones a ese problema.
 
 En esa búsqueda, conocí Linux y tras analizar sus características, pros y contras, decidí 
-instalarlo físicamente en mi equipo. Opté por instalar un Debian 8 sin interfaz gráfica, 
-únicamente con la TTY por defecto del sistema. Esto me forzó a utilizar el intérprete de comandos
-para aprender a utilizar este sistema con soltura y no verme tentado a usar la GUI (Graphic User
-Interface).
+instalarlo físicamente en mi equipo. Opté por un Debian 8 sin interfaz gráfica, únicamente con la 
+TTY por defecto del sistema. Con la finalidad de forzarme a utilizar el intérprete de comandos
+con la finalidad de aprender a utilizar este sistema con soltura y no verme tentado a usar la GUI (
+Graphic User Interface) en el proceso.
 
-Con el paso del tiempo, me enamoré de Linux y se convirtió en el único sistema que utilizo desde 
-hace aproximadamente cuatro años y medio. Por tanto, dediqué mis esfuerzos a tener un dominio 
-sobre este sistema, y ahí comenzaron mis estudios autodidactas sobre Linux. Conforme estudiaba, 
-escuchaba constantemente que Linux era muy seguro. Escuché algo sobre Kali Linux y me puse a 
-indagar, todo mientras comenzaban mis estudios oficiales de informática.
+Con el paso del tiempo Linux me cautivó, y se convirtió en el único sistema que utilizo desde 
+hace aproximadamente cuatro años y medio. Dediqué mis esfuerzos a tener un dominio sobre este sistema, 
+todo por supuesto de forma autodidacta. Conforme más estudiaba, más escuchaba de este sistema era muy 
+seguro en comparación con otros sistemas operativos. Esto inevitablemente me hizo toparme con Kali 
+Linux y me puse a indagar al respecto. Todo mientras comenzaban mis estudios oficiales de informática.
 
 En estos, abordé redes, bases de datos, sistemas, servicios, programación, hardware, etc. Sumado a
-mi constante aprendizaje a nivel personal, esto implicó muchísimas horas de estudio, pruebas y 
-proyectos, tanto personales como académicos. Tras tantos años estudiando la base de la 
-informática, finalmente me vi capacitado para dar el salto a la ciberseguridad. Debo decir que 
-específicamente en hacking no soy un experto, sin embargo, estoy realizando prácticas de 
-pentester. Por lo tanto, no parto desde cero, pero sin duda puedo decir que es la rama que menos 
-domino.
+mi constante labor de aprendizaje a nivel personal, desembocando en muchas horas de estudio, pruebas y
+proyectos. Tras tantos años estudiando la base de la informática, finalmente me vi capacitado para dar
+ese ansiado salto a la ciberseguridad. Debo añadir de que específicamente en hacking no soy un experto,
+sin embargo, estoy realizando prácticas de pentester en una empresa. Por lo que no parto de cero, pero
+sin duda puedo afirmar que es la rama que menos domino.
 
-Por tanto, deseo que ustedes puedan acompañarme en este camino lleno de bits, códigos, direcciones
-IP, prompts y pantallas verdes. Un saludo, Zaytos.
+Este es el gran motivo de crear este blog, el poder ver mi evolución, palpar en primera mano mis 
+avances en esta materia y poder documentarla para la comunidad. Además a fecha de hoy me estoy 
+preparando la certificación eJPT, la cual tengo muchas ganas de poder obtener. Pese a no ser gran cosa
+por algo hay que empezar.
+
+Sin más dilación, deseo que ustedes puedan acompañarme en este camino lleno de bits, códigos, 
+direcciones IP, prompts y pantallas verdes. Un saludo, Zaytos.
