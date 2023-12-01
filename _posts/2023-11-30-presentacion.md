@@ -55,4 +55,3 @@ domino.
 
 Por tanto, deseo que ustedes puedan acompañarme en este camino lleno de bits, códigos, direcciones
 IP, prompts y pantallas verdes. Un saludo, Zaytos.
-
