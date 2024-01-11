@@ -1,7 +1,7 @@
 ---
-title: Destripando Herramientas: Documentando el Core del Hacking
-categories: [Destripando Herramientas, Presentacion]
-tags: [presentacion]
+title: Destripando Herramientas - Documentando el Core del Hacking Moderno
+categories: [Destripando Herramientas]
+tags: [presentacion_seccion]
 ---
 
 En los albores del hacking, los primeros exploradores digitales se sumergían en sistemas con sus 
